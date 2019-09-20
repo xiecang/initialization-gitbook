@@ -1,5 +1,5 @@
 {
-  "title": "Lin-Notes",
+  "title": "Initialization-Gitbook",
   "author": "xie_cang",
   "plugins": [
     "-lunr",
@@ -33,7 +33,7 @@
     "github-buttons": {
       "buttons": [{
         "user": "xiecang",
-        "repo": "notes",
+        "repo": "initialization-gitbook",
         "type": "star",
         "size": "small",
         "count": true

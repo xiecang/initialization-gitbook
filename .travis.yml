@@ -31,4 +31,4 @@ branches:
 
 env:
   global:
-    - REF=github.com/xiecang/notes.git # 设置 github 地址
+    - REF=github.com/xiecang/initialization-gitbook.git # 设置 github 地址
